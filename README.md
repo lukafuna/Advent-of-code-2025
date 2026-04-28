@@ -15,4 +15,4 @@ Each project contains the solutions for that day's challenge. Some of them may h
 ## Technologies
 
 - C#
-- JetBrains Rider
+
