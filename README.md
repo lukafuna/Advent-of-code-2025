@@ -7,10 +7,10 @@ Solutions for the 2025 AOC problems I solved in C#.
 - Day1
 - Day2
 - Day3
+- Day4
 - Day5
-- Day6
 
-Each project contains the solutions for that day's challenge. Some of them may have solutions only for the first part.
+Each project contains the solutions for that day's challenge. In the projects containing both solutions the solution to the second part is commented and doesn't have the input for it. Also the actual output of the solutions is not included. 
 
 ## Technologies
 
